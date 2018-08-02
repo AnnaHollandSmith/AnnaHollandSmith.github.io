@@ -55,6 +55,12 @@ main > .tagline {
 	font-weight: 100;
 }
 
+.image_1 {
+    width: 12%;
+    height: auto;
+}
+
+
 .icons-social i {
 	padding: 10px;
 }
